@@ -1,25 +1,15 @@
-### Please first set up Nodejs Api and then
+### Pirst set up Nodejs Api
 
-### Set port
-.env
-```
-PORT=8081
-```
+### Project Set up
 
-## Project setup
+1. Clone repository -> git clone https://github.com/ataullahiitt/book-lab-test-react.git
 
-go to  project directory and  run:
+2. Open terminal go to project root  directory 
+  
+3. Run npm install 
 
-```
-npm install
+4. npm start 
 
-```
-or
+5. Default PORT = 3030 (.env on project root directory)
 
-### run project
-
-```
-npm start
-
-```
-project - url Open http://localhost:3030
+6. Project URL http://localhost:3030/
