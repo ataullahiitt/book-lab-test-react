@@ -9,7 +9,3 @@
 3. Run npm install 
 
 4. npm start 
-
-5. Default PORT = 3030 (.env on project root directory)
-
-6. Project URL http://localhost:3030/
